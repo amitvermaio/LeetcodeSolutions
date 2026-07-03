@@ -36,7 +36,7 @@ class Solution {
         int n = prices.length;
         int cap = 2;
         int buy = 1;
-        dp = new Integer[n+1][2][3];
+        dp = new Integer[n+1][buy+1][cap+1];
         return solve(prices, 0, n, buy, cap);       
     }
 }
