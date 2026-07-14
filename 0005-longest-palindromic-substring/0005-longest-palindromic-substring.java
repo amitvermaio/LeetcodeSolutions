@@ -5,6 +5,8 @@ class Solution {
             return true;
         }
 
+        if (dp[i][j] != null) return dp[i][j];
+
         if (s.charAt(i) == s.charAt(j)) {
             return dp[i][j] = isPalindrome(s, i+1, j-1);
         }
