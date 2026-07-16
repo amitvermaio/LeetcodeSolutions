@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amitvermaio/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/amitvermaio/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitvermaio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amitvermaio/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/amitvermaio/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
