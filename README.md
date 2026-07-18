@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitvermaio/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/amitvermaio/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/amitvermaio/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amitvermaio/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Design
 |  |
 | ------- |
