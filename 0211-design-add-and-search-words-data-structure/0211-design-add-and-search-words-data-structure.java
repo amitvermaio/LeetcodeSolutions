@@ -41,10 +41,9 @@ class WordDictionary {
             return dfs(ptr.children[ch - 'a'], word, i+1);
         } 
             
-        for (int j=0; j<26; j++) {
-            if (dfs(ptr.children[j], word, i+1)) {
+        for (TrieNode child : ptr.children) {
+            if (child != null && dfs(child, word, i + 1))
                 return true;
-            }
         }
 
         return false;
