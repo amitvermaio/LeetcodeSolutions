@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0648-replace-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [2478-number-of-beautiful-partitions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2478-number-of-beautiful-partitions) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amitvermaio/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
