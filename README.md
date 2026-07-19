@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0648-replace-words) |
+| [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/amitvermaio/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amitvermaio/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/amitvermaio/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [3620-network-recovery-pathways](https://github.com/amitvermaio/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0648-replace-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [2478-number-of-beautiful-partitions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2478-number-of-beautiful-partitions) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/amitvermaio/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0648-replace-words) |
+| [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Design
 |  |
 | ------- |
