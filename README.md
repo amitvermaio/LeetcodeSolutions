@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/amitvermaio/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/amitvermaio/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
