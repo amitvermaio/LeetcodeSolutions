@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amitvermaio/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/amitvermaio/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3620-network-recovery-pathways](https://github.com/amitvermaio/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -272,10 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
 |  |
 | ------- |
@@ -288,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/amitvermaio/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/amitvermaio/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Counting Sort
 |  |
 | ------- |
