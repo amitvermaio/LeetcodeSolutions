@@ -324,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/amitvermaio/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
