@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2478-number-of-beautiful-partitions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2478-number-of-beautiful-partitions) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amitvermaio/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amitvermaio/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amitvermaio/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitvermaio/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amitvermaio/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amitvermaio/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amitvermaio/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
