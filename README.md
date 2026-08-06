@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amitvermaio/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0443-string-compression](https://github.com/amitvermaio/leetcode-solutions/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0648-replace-words) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitvermaio/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0443-string-compression](https://github.com/amitvermaio/leetcode-solutions/tree/master/0443-string-compression) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amitvermaio/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
