@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitvermaio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitvermaio/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitvermaio/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/0031-next-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amitvermaio/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
