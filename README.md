@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitvermaio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitvermaio/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/amitvermaio/leetcode-solutions/tree/master/0443-string-compression) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/0015-3sum) |
 | [0451-sort-characters-by-frequency](https://github.com/amitvermaio/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitvermaio/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
