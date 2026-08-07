@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/amitvermaio/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0205-isomorphic-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amitvermaio/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/amitvermaio/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amitvermaio/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
