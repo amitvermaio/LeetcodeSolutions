@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/amitvermaio/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitvermaio/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/amitvermaio/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0318-maximum-product-of-word-lengths](https://github.com/amitvermaio/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/amitvermaio/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amitvermaio/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/amitvermaio/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/amitvermaio/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/amitvermaio/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/amitvermaio/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
