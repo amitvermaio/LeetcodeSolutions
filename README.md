@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/amitvermaio/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitvermaio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitvermaio/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amitvermaio/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/amitvermaio/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/amitvermaio/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/amitvermaio/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/amitvermaio/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
