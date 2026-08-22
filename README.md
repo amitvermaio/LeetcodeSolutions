@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitvermaio/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/amitvermaio/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitvermaio/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/amitvermaio/leetcode-solutions/tree/master/0312-burst-balloons) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitvermaio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitvermaio/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitvermaio/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/amitvermaio/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0472-concatenated-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0472-concatenated-words) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [2179-count-good-triplets-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -510,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amitvermaio/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitvermaio/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amitvermaio/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
