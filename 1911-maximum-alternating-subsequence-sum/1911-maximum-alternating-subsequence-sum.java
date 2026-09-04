@@ -1,33 +1,17 @@
 class Solution {
-    long[][] dp;
-    int n;
-
-    public long solve(int[] nums, int i, boolean even) {
-        if (i >= n)
-            return 0;
-        
-        int flagIdx = even ? 1 : 0;
-
-        if (dp[i][flagIdx] != -1) 
-            return dp[i][flagIdx];
-        
-        long skip = solve(nums, i+1, even);
-        int num = nums[i];
-        if (!even) num = -num;
-        long take = num + solve(nums, i+1, !even);
-
-        return dp[i][flagIdx] = Math.max(take, skip);
-    }
-
     public long maxAlternatingSum(int[] nums) {
-        n = nums.length;
+        int n = nums.length;
 
-        dp = new long[n+1][2];
-        for (int i=0; i<n+1; i++) {
-            dp[i][0] = -1;
-            dp[i][1] = -1;
+        long[][] dp = new long[n+1][2]; // n+1 because of dp[i-1] for 0 it become -1 which is wrong
+
+        int even = 0;
+        int odd = 1;
+
+        for (int i=1; i<=n; i++) {
+            dp[i][even] = Math.max(dp[i-1][odd]-nums[i-1], dp[i-1][even]);
+            dp[i][odd] = Math.max(dp[i-1][even]+nums[i-1], dp[i-1][odd]);
         }
 
-        return solve(nums, 0, true);
+        return Math.max(dp[n][even], dp[n][odd]);
     }
 }
