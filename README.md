@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/amitvermaio/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/amitvermaio/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/amitvermaio/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitvermaio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitvermaio/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amitvermaio/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/amitvermaio/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/amitvermaio/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
