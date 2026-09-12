@@ -1,31 +1,30 @@
 class Solution {
     public Node connect(Node root) {
         if (root == null)
-            return root;
+            return null;
 
-        Queue<Node> q = new LinkedList<>();
-        q.offer(root);
+        Node level = root;
 
-        while (!q.isEmpty()) {
-            int sz = q.size();
+        while (level.left != null) {
 
-            Node prev = null;
-            for (int i=0; i<sz; i++) {
-                Node curr = q.poll();
+            Node curr = level;
 
-                if (prev != null) {
-                    prev.next = curr;    
-                } 
+            while (curr != null) {
 
-                prev = curr;
+                // Same parent
+                curr.left.next = curr.right;
 
-                if (curr.left != null) 
-                    q.offer(curr.left);
-                
-                if (curr.right != null)
-                    q.offer(curr.right);
+                // Different parents
+                if (curr.next != null) {
+                    curr.right.next = curr.next.left;
+                }
+
+                curr = curr.next;
             }
-        }        
+
+            // Move to next level
+            level = level.left;
+        }
 
         return root;
     }
