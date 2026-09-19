@@ -1,35 +1,41 @@
 class Solution {
-    List<TreeNode> nodes = new ArrayList<>();
+    TreeNode first, second, prev;
     void inorder(TreeNode root) {
         if (root == null)
             return;
         
         inorder(root.left);
-        nodes.add(root);
+        
+        if (prev != null && prev.val > root.val) {
+            if (first == null) {
+                first = prev;
+            } 
+            /* 1 3 2 4 
+            Only violation:
+                3 > 2
+            agar else me `second` ko update karu code mein:
+                first = 3
+                second = null
+
+            pehli violation par second set nahi hota. Ye actually adjacent swapped nodes ke case mein problem karega.
+
+            isliye second wala condition else me nhi hoga
+            */
+
+            second = root;
+        }
+
+        prev = root;
+
         inorder(root.right);
     }
 
     public void recoverTree(TreeNode root) {
+        first = second = prev = null;
         inorder(root);
-        List<TreeNode> temp = new ArrayList<>(nodes);
-        Collections.sort(temp, (a, b) -> Integer.compare(a.val, b.val));
 
-        TreeNode first = null;
-        TreeNode second = null;
-
-        for (int i=0; i<temp.size(); i++) {
-            if (temp.get(i) != nodes.get(i)) {
-                if (first == null) {
-                    first = temp.get(i);
-                } else {
-                    second = temp.get(i);
-                    break;
-                }
-            }
-        }
-
-        int sVal = second.val;
-        second.val = first.val;
-        first.val = sVal;
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
     }
 }
