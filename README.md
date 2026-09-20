@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/amitvermaio/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amitvermaio/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amitvermaio/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amitvermaio/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/amitvermaio/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amitvermaio/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amitvermaio/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitvermaio/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
