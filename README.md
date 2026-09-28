@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amitvermaio/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0834-sum-of-distances-in-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amitvermaio/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/amitvermaio/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amitvermaio/leetcode-solutions/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/amitvermaio/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amitvermaio/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amitvermaio/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/amitvermaio/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/amitvermaio/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amitvermaio/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0472-concatenated-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0472-concatenated-words) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amitvermaio/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/amitvermaio/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/amitvermaio/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0617-merge-two-binary-trees](https://github.com/amitvermaio/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amitvermaio/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -675,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amitvermaio/leetcode-solutions/tree/master/0204-count-primes) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/amitvermaio/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
