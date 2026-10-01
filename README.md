@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/amitvermaio/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/amitvermaio/leetcode-solutions/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/amitvermaio/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/amitvermaio/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitvermaio/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/amitvermaio/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/1140-stone-game-ii) |
