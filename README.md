@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amitvermaio/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amitvermaio/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amitvermaio/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amitvermaio/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitvermaio/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/amitvermaio/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amitvermaio/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitvermaio/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amitvermaio/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/amitvermaio/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amitvermaio/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amitvermaio/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amitvermaio/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/amitvermaio/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/amitvermaio/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amitvermaio/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amitvermaio/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
