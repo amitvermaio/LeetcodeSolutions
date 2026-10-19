@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amitvermaio/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amitvermaio/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/amitvermaio/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/amitvermaio/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amitvermaio/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/amitvermaio/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amitvermaio/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amitvermaio/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amitvermaio/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/amitvermaio/leetcode-solutions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
