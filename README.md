@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/amitvermaio/leetcode-solutions/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amitvermaio/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/amitvermaio/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
