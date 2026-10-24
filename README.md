@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/amitvermaio/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amitvermaio/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/amitvermaio/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/amitvermaio/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2478-number-of-beautiful-partitions](https://github.com/amitvermaio/leetcode-solutions/tree/master/2478-number-of-beautiful-partitions) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amitvermaio/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/amitvermaio/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amitvermaio/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/amitvermaio/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amitvermaio/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amitvermaio/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amitvermaio/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
