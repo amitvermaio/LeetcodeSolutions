@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amitvermaio/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/amitvermaio/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/amitvermaio/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amitvermaio/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/amitvermaio/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/amitvermaio/leetcode-solutions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3310-remove-methods-from-project](https://github.com/amitvermaio/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/amitvermaio/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/amitvermaio/leetcode-solutions/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Breadth-First Search
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amitvermaio/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/amitvermaio/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/amitvermaio/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amitvermaio/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/amitvermaio/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amitvermaio/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/amitvermaio/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/amitvermaio/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
