@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/amitvermaio/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/amitvermaio/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitvermaio/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amitvermaio/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0472-concatenated-words](https://github.com/amitvermaio/leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/amitvermaio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/amitvermaio/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amitvermaio/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/amitvermaio/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/amitvermaio/leetcode-solutions/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amitvermaio/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/amitvermaio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/amitvermaio/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitvermaio/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
