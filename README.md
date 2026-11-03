@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amitvermaio/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/amitvermaio/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/amitvermaio/leetcode-solutions/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amitvermaio/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/amitvermaio/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amitvermaio/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/amitvermaio/leetcode-solutions/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amitvermaio/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amitvermaio/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amitvermaio/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amitvermaio/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
